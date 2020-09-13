@@ -1,0 +1,7 @@
+body{
+    padding-top: 30vh;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
